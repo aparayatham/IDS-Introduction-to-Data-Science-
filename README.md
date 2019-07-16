@@ -1,2 +1,3 @@
 # IDS-Introduction-to-Data-Science-
-A course MSIT first year students
+A course for MSIT first year students 2019
+
